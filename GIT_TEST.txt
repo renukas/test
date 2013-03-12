@@ -1,1 +1,7 @@
-testing
+testing 
+
+
+ 
+.ppk Extension - List of programs that can open .ppk files
+In the following table, you can find a list of programs that can open files with .ppk extension.This list is created by collecting extension information reported by users through the 'send report' option of FileTypesMan utility.
+The product name, description, and company name are taken from the version information of the .exe file.The 'Actions' list is taken from the context menu items added to Explorer by the specified program.The 'Popularity' column displays one of the following 4 values: Low, Medium, High, and Very High, which is determined according to the number of users that sent the specified record.
